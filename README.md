@@ -14,6 +14,23 @@ To enable MLLM for image generation, we employ N learnable queries to obtain the
 ### Dataset
 ## Pre-training
 ### Image-Caption
+<table style="margin: auto">
+  <thead>
+    <tr>
+      <th>Dataset</th>
+      <th>Number</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LAION-COCO</td>
+       <td></td>
+      <td></td>
+    </tr>
+      </tbody>
+</table>
+
 **LAION-COCO**
 
 **SAM**
