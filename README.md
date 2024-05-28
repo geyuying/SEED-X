@@ -119,7 +119,7 @@ To enable MLLM for image generation, we employ N learnable queries to obtain the
           <tr>
       <td>Slides</td>
        <td>1M</td>
-      <td>Iamges from slides, with OCR results.</td>
+      <td>Images from slides, with OCR results.</td>
     </tr>
 </table>
 
