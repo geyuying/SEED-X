@@ -1,5 +1,5 @@
 # SEED-X
-## Examples of Visual De-tokenization
+<!--## Examples of Visual De-tokenization
 ![image](demos/tokenizer.jpg?raw=true)
 The reconstruction results of our visual de-tokenizer. It can decode realistic images that are semantically aligned with the original images by taking the ViT features as inputs, and further recover fine-grained details by incorporating the conditional images as inputs.
 ## Ablation Study
@@ -440,6 +440,7 @@ To enable MLLM for image generation, we employ N learnable queries to obtain the
     </tr>
       </tbody>
 </table>
+-->
 
 ## Usage
 ### Dependencies
